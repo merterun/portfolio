@@ -39,22 +39,15 @@ In my professional life i was able to work within different organizations and wi
 
 ## Projects
 
-<table>
-<tr>
-<th>  </th>
 
 
-
-**[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**
+> **[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**
 
 [REPO](https://github.com/merterun/credit-risk-analysis)
 
 In this notebook, we look at the evaluation of creditworthiness among bank customers. Through an exploratory data analysis, we gain valuable insights into the dataset and identify significant trends within the variables. Subsequently, i focused on constructing and evaluating models to assess customer creditworthiness. I compared the performance of Logistic Regression and Decision Tree models for classification purposes. At the end i investigated variable importances to determine the key factors influencing creditworthiness.
 
-<th>  </th>
-</tr>
-<tr>
-<td>
+#
 
 **[Investigating vehicle insurance Frauds](https://github.com/merterun/fraud-detection-insurance/blob/main/investigating-vehicle-insurance-frauds-with-ml.ipynb)**
 
@@ -111,8 +104,6 @@ Using comprehensive data from IMDB, i conduct an in-depth analysis of the greate
 
 In this exploratory data analaysis notebook, we explore the world's population dynamics spanning from 1970 to 2022. We uncover intriguing insights regarding the global distribution of people across nations and continents. 
 
-
-</table>
 
 #
 
