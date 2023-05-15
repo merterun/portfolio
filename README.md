@@ -35,11 +35,11 @@ In my professional life i was able to work within different organizations and wi
 - **Email**: [merterun@gmail.com](mailto:merterun@gmail.com) - [mealer@protonmail.com](mailto:mealer@protonmail.com)
 - **LinkedIn**: [linkedin.com/mert-ali-erun/](https://www.linkedin.com/in/mert-ali-erun/)
 
-#
+
 
 ## Projects
 
-
+```mermaid
 
 > **[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**
 
@@ -103,7 +103,7 @@ Using comprehensive data from IMDB, i conduct an in-depth analysis of the greate
 
 In this exploratory data analaysis notebook, we explore the world's population dynamics spanning from 1970 to 2022. We uncover intriguing insights regarding the global distribution of people across nations and continents. 
 
-
+```
 #
 
 
