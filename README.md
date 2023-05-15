@@ -6,6 +6,10 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 Updated on a regular basis.
 
+
+#
+
+
 <details>
   <summary>About me</summary>
   
@@ -26,6 +30,10 @@ Studied economics at Izmir University of Economics and finished within top 5%. I
 In my professional life i was able to work within different organizations and with multiple A+ clients from different sectors such as Law, Sports, Technology and Production, which allowed/pushed me to be cross-functional and adopt new skills outside of my knowledgebase as well. 
   
 </details>
+
+
+#
+
 
 ## Contact info
 - **Email**: [merterun@gmail.com](mailto:merterun@gmail.com) - [mealer@protonmail.com](mailto:mealer@protonmail.com)
