@@ -1,4 +1,4 @@
-# Mert's Data Science Portfolio - Mert Ali Erün
+# Mert's Data Science Portfolio -   Mert Ali Erün
 
 Hi there,
 
@@ -30,20 +30,16 @@ In my professional life i was able to work within different organizations and wi
 </details>
 
 #
-#
-#
 
 ## Contact info
 - **Email**: [merterun@gmail.com](mailto:merterun@gmail.com) - [mealer@protonmail.com](mailto:mealer@protonmail.com)
 - **LinkedIn**: [linkedin.com/mert-ali-erun/](https://www.linkedin.com/in/mert-ali-erun/)
 
 #
-#
-#
+
 <table>
 <tr>
-<th> Good </th>
-<th> Bad </th>
+<th> Projects </th>
 </tr>
 <tr>
 <td>
@@ -98,7 +94,8 @@ Conducted an analysis on macaque brain areas and connections, utilizing the data
 
 In this data science project, we leverage hierarchical clustering and principal components analysis techniques to gain insights from the USArrests dataset in R. This dataset encompasses data on assault, murder, and rape arrest rates per 100,000 residents across all 50 US states in 1973. By employing these analytical methods, our objective is to uncover distinctive clusters among the states, allowing us to discern patterns and relationships based on their respective crime rates.
 
-#
+</td>
+</tr>
 
 **[Evolution of the Film Industry](https://github.com/merterun/evolution-of-cinema/blob/main/the-evolution-of-cinema-a-data-driven-perspective.ipynb)**
 
@@ -114,8 +111,7 @@ Using comprehensive data from IMDB, i conduct an in-depth analysis of the greate
 
 In this exploratory data analaysis notebook, we explore the world's population dynamics spanning from 1970 to 2022. We uncover intriguing insights regarding the global distribution of people across nations and continents. 
 
-</td>
-</tr>
+
 </table>
 
 #
