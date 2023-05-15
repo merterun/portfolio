@@ -36,6 +36,7 @@ In my professional career, I have had the opportunity to collaborate with divers
 - **LinkedIn**: [linkedin.com/mert-ali-erun/](https://www.linkedin.com/in/mert-ali-erun/)
 
 <br>
+
 ## Projects
 
 
