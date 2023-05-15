@@ -36,16 +36,35 @@ In my professional life i was able to work within different organizations and wi
 - **LinkedIn**: [linkedin.com/mert-ali-erun/](https://www.linkedin.com/in/mert-ali-erun/)
 
 
-|> **[Investigating vehicle insurance Frauds](https://github.com/merterun/fraud-detection-insurance/blob/main/investigating-vehicle-insurance-frauds-with-ml.ipynb)**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">&gt; **[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**<br><span style="font-weight:400;font-style:normal">[REPO](https://github.com/merterun/credit-risk-analysis)</span><br><span style="font-weight:400;font-style:normal">In this notebook, we look at the evaluation of creditworthiness among bank customers. Through an exploratory data analysis, we gain valuable insights into the dataset and identify significant trends within the variables. Subsequently, i focused on constructing and evaluating models to assess customer creditworthiness. I compared the performance of Logistic Regression and Decision Tree models for classification purposes. At the end i investigated variable importances to determine the key factors influencing creditworthiness.</span></th>
+    <th class="tg-0lax">&gt; **[Investigating vehicle insurance Frauds](https://github.com/merterun/fraud-detection-insurance/blob/main/investigating-vehicle-insurance-frauds-with-ml.ipynb)**<br>[REPO](https://github.com/merterun/fraud-detection-insurance)In this project i investigated vehicle insurance claims, differentiating between fraudulent and legitimate ones. The primary objective is to construct a robust model capable of identifying fraudulent claims based on the available data. I employed various techniques including Feature Scaling to ensure optimal data preprocessing, Model Evaluation, and Comparison utilizing xgboost and Random Forest algorithms. Furthermore, we employ Hyperparameter Tuning to fine-tune the models for enhanced performance and accuracy.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 
-[REPO](https://github.com/merterun/fraud-detection-insurance)
 
-In this project i investigated vehicle insurance claims, differentiating between fraudulent and legitimate ones. The primary objective is to construct a robust model capable of identifying fraudulent claims based on the available data. I employed various techniques including Feature Scaling to ensure optimal data preprocessing, Model Evaluation, and Comparison utilizing xgboost and Random Forest algorithms. Furthermore, we employ Hyperparameter Tuning to fine-tune the models for enhanced performance and accuracy.
-|> **[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**
-
-[REPO](https://github.com/merterun/credit-risk-analysis)
-
-In this notebook, we look at the evaluation of creditworthiness among bank customers. Through an exploratory data analysis, we gain valuable insights into the dataset and identify significant trends within the variables. Subsequently, i focused on constructing and evaluating models to assess customer creditworthiness. I compared the performance of Logistic Regression and Decision Tree models for classification purposes. At the end i investigated variable importances to determine the key factors influencing creditworthiness.|
 
 
 ## Projects
