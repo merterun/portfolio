@@ -49,7 +49,7 @@ In this notebook, we look at the evaluation of creditworthiness among bank custo
 
 #
 
-**[Investigating vehicle insurance Frauds](https://github.com/merterun/fraud-detection-insurance/blob/main/investigating-vehicle-insurance-frauds-with-ml.ipynb)**
+> **[Investigating vehicle insurance Frauds](https://github.com/merterun/fraud-detection-insurance/blob/main/investigating-vehicle-insurance-frauds-with-ml.ipynb)**
 
 [REPO](https://github.com/merterun/fraud-detection-insurance)
 
@@ -57,7 +57,7 @@ In this project i investigated vehicle insurance claims, differentiating between
 
 #
 
-**[Analysis on Genome sequencing Costs](https://github.com/merterun/genome-sequencing-costs/blob/main/exploring-and-cost-patterns-of-genome-sequencing.ipynb)**
+> **[Analysis on Genome sequencing Costs](https://github.com/merterun/genome-sequencing-costs/blob/main/exploring-and-cost-patterns-of-genome-sequencing.ipynb)**
 
 [REPO](https://github.com/merterun/genome-sequencing-costs)
 
@@ -65,7 +65,7 @@ This data science notebook introduces the concept of genome sequencing and its i
 
 #
 
-**[The Bean Scene: A study about Coffee](https://github.com/merterun/the-bean-scene-a-study-about-coffee/blob/main/the-bean-scene-a-study-about-coffee.ipynb)**
+> **[The Bean Scene: A study about Coffee](https://github.com/merterun/the-bean-scene-a-study-about-coffee/blob/main/the-bean-scene-a-study-about-coffee.ipynb)**
 
 [REPO](https://github.com/merterun/the-bean-scene-a-study-about-coffee) (Contains **.rmd** file)
 
@@ -73,7 +73,7 @@ In this notebook, we look into the realm of coffee, meticulously analyzing the t
 
 #
 
-**[Macaque Brain Network Analysis](https://github.com/merterun/macaque-brain-network-analysis/blob/main/mapping-the-macaque-brain-a-network-analysis.ipynb)**
+> **[Macaque Brain Network Analysis](https://github.com/merterun/macaque-brain-network-analysis/blob/main/mapping-the-macaque-brain-a-network-analysis.ipynb)**
 
 [REPO](https://github.com/merterun/macaque-brain-network-analysis)
 
@@ -81,16 +81,15 @@ Conducted an analysis on macaque brain areas and connections, utilizing the data
 
 #
 
-**[Hierarchical Clustering and PCA analysis on US crime rates](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests/blob/main/hierarchical-clustering-and-pca-on-u-s-crime-rate.ipynb)**
+> **[Hierarchical Clustering and PCA analysis on US crime rates](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests/blob/main/hierarchical-clustering-and-pca-on-u-s-crime-rate.ipynb)**
 
 [REPO](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests)
 
 In this data science project, we leverage hierarchical clustering and principal components analysis techniques to gain insights from the USArrests dataset in R. This dataset encompasses data on assault, murder, and rape arrest rates per 100,000 residents across all 50 US states in 1973. By employing these analytical methods, our objective is to uncover distinctive clusters among the states, allowing us to discern patterns and relationships based on their respective crime rates.
 
-</td>
-</tr>
+#
 
-**[Evolution of the Film Industry](https://github.com/merterun/evolution-of-cinema/blob/main/the-evolution-of-cinema-a-data-driven-perspective.ipynb)**
+> **[Evolution of the Film Industry](https://github.com/merterun/evolution-of-cinema/blob/main/the-evolution-of-cinema-a-data-driven-perspective.ipynb)**
 
 [REPO](https://github.com/merterun/evolution-of-cinema) (Contains **.rmd** file)
 
@@ -98,7 +97,7 @@ Using comprehensive data from IMDB, i conduct an in-depth analysis of the greate
 
 #
 
-**[Uncovering the World's population patterns](https://github.com/merterun/uncovering-the-world-s-population-patterns/blob/main/uncovering-the-world-s-population-patterns.ipynb)**
+> **[Uncovering the World's population patterns](https://github.com/merterun/uncovering-the-world-s-population-patterns/blob/main/uncovering-the-world-s-population-patterns.ipynb)**
 
 [REPO](https://github.com/merterun/uncovering-the-world-s-population-patterns) (Contains **.rmd** file)
 
