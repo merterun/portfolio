@@ -113,6 +113,7 @@ This section consist of educational notebooks i created called *"Cool R Things"*
 <br>
 
 > [Functional Data Manipulation](https://github.com/merterun/functional-data-manipulation/blob/main/functional-data-manipulation.ipynb)
+
 <sub>[REPO](https://github.com/merterun/functional-data-manipulation) (Contains **.rmd** file)</sub>
 
 This notebook explores the fundamentals of ```functional programming``` in R with the ```purrr``` library. I demonstrate how to transform and manipulate data structures in a more concise and efficient way using functions. Through this notebook, we will learn how to use the various functions provided by purrr to work with lists, vectors, and other data structures, and gain a deeper understanding of the functional programming paradigm in R.
@@ -120,6 +121,7 @@ This notebook explores the fundamentals of ```functional programming``` in R wit
 #
 
 > [Building Interactive Dashboards](https://github.com/merterun/building-interactive-dashboards/blob/main/building-interactive-dashboards.ipynb)
+
 <sub>[REPO](https://github.com/merterun/building-predictive-models) (Contains **.rmd** file)</sub>
 
 This notebook showcases the development of an interactive dashboard utilizing the powerful ```Shiny``` library in R. By leveraging the ```iris``` dataset from the ```datasets``` package, i explore its inherent patterns and characteristics through visually appealing and user-friendly interfaces. Throughout the project, i demonstrate ```data manipulation```, ```visualization``` and ```interactive dashboards```.
@@ -127,6 +129,7 @@ This notebook showcases the development of an interactive dashboard utilizing th
  #
  
 > [Building Predictive Models](https://github.com/merterun/building-predictive-models/blob/main/building-predictive-models.ipynb)
+
 <sub>[REPO](https://github.com/merterun/building-predictive-models) (Contains **.rmd** file)</sub>
 
 In this notebook, we leverage the ```caret``` package to execute ```k-fold cross-validation``` on a ```classification model```. By implementing this robust methodology, we gain insights into the model's performance and its ability to generalize to unseen data. 
@@ -134,6 +137,7 @@ In this notebook, we leverage the ```caret``` package to execute ```k-fold cross
 #
 
 > [Mapping made easy with leaflet](https://github.com/merterun/mapping-made-easy/blob/main/mapping-made-easy-with-leaflet.ipynb)
+
 <sub>[REPO](https://github.com/merterun/mapping-made-easy) (Contains **.rmd** file)</sub>
 
 We explore the creation of interactive maps using the ```leaflet``` library in R in this notebook. With leaflet, i demonstrate the generation of maps enriched with markers, popups, and other engaging features. Our focus lies in creating a visually appealing map of the United States, adorned with markers highlighting key cities of significance.
@@ -141,6 +145,7 @@ We explore the creation of interactive maps using the ```leaflet``` library in R
 #
 
 > [Web scraping with rvest](https://github.com/merterun/web-scraping-with-rvest/blob/main/web-scraping-with-rvest.ipynb)
+
 <sub>[REPO](https://github.com/merterun/web-scraping-with-rvest) (Contains **.rmd** file)</sub>
 
 I explore the realm of ```web scraping```, utilizing the robust ```rvest``` library. Web scraping is a method for extracting valuable data from websites, and the rvest library, specifically designed for R, offers a comprehensive set of functions tailored for working with ```HTML``` and ```XML``` documents.
