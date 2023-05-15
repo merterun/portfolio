@@ -6,7 +6,7 @@ This Portfolio is a compilation of Data Science projects I conducted.
 
 Updated on a regular basis.
 
-
+<br>
 <details>
   <summary>About me</summary>
   
@@ -29,7 +29,7 @@ In my professional career, I have had the opportunity to collaborate with divers
   
 </details>
 
-#
+<br>
 
 ## Contact info
 - **Email**: [merterun@gmail.com](mailto:merterun@gmail.com) - [mealer@protonmail.com](mailto:mealer@protonmail.com)
@@ -102,14 +102,14 @@ Using comprehensive data from IMDB, i conduct an in-depth analysis of the greate
 In this exploratory data analaysis notebook, we explore the world's population dynamics spanning from 1970 to 2022. We uncover intriguing insights regarding the global distribution of people across nations and continents. 
 
 
-#
+<br>
 
 
 ## Educational Content
 
 This section consist of educational notebooks i created called *"Cool R Things"*
 
-
+<br>
 
 > [Functional Data Manipulation](https://github.com/merterun/functional-data-manipulation/blob/main/functional-data-manipulation.ipynb)
 <sub>[REPO](https://github.com/merterun/functional-data-manipulation) (Contains **.rmd** file)</sub>
