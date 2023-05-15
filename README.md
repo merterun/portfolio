@@ -37,16 +37,13 @@ In my professional life i was able to work within different organizations and wi
 
 #
 
-<table>
-<tr>
-<th> Projects </th>
-</tr>
-<tr>
-<td>
-
 ## Projects
 
-#
+<table>
+<tr>
+<th>  </th>
+
+
 
 **[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**
 
@@ -54,7 +51,10 @@ In my professional life i was able to work within different organizations and wi
 
 In this notebook, we look at the evaluation of creditworthiness among bank customers. Through an exploratory data analysis, we gain valuable insights into the dataset and identify significant trends within the variables. Subsequently, i focused on constructing and evaluating models to assess customer creditworthiness. I compared the performance of Logistic Regression and Decision Tree models for classification purposes. At the end i investigated variable importances to determine the key factors influencing creditworthiness.
 
-#
+<th>  </th>
+</tr>
+<tr>
+<td>
 
 **[Investigating vehicle insurance Frauds](https://github.com/merterun/fraud-detection-insurance/blob/main/investigating-vehicle-insurance-frauds-with-ml.ipynb)**
 
