@@ -11,21 +11,22 @@ Updated on a regular basis.
 <details>
   <summary>About me</summary>
   
+  
   My data science notebooks consist of variety of topics with many different approaches using a lot of different frameworks.
 
 Armed with R, and an array of many powerful libraries, I dive headfirst into the data, exploring its depths to extract valuable insights and transforming complex data into tangible solutions.
-  
-As a data scientist, I blend technical prowess with a deep understanding of business objectives. I methodically investigate the data, searching for correlations, trends, and anomalies that have the potential to reshape business decisions
 
-Inside these notebooks, you'll find a diverse range of projects that showcase my multidimensional skills. From predictive modeling and machine learning to network analysis and exploratory data analysis. Each notebook represents a chapter in my data science story. With a meticulous approach, I carefully select and preprocess the data, construct robust models, and evaluate their performance to ensure reliable and accurate results.
+Inside these notebooks, you'll find a diverse range of projects that showcase multidimensional skills. From predictive modeling and machine learning to network analysis and exploratory data analysis. Each notebook represents a chapter in my data science story. With a meticulous approach, I carefully select and preprocess the data, construct robust models, and evaluate their performance to ensure reliable and accurate results.
 
 It can also be seen that i'm meticulous in the narrative and document my thought process, observations, explanations and the lessons learned, transforming my notebooks into a repository of knowledge and continuous improvement. 
 
+  
   <summary>Bio</summary>
 
+  
 Studied economics at Izmir University of Economics and finished within top 5%. I learned to use tools and topics like R, Sql, regression and time series analysis at University. 
   
-In my professional life i was able to work within different organizations and with multiple A+ clients from different sectors such as Law, Sports, Technology and Production, which allowed/pushed me to be cross-functional and adopt new skills outside of my knowledgebase as well. 
+In my professional career, I have had the opportunity to collaborate with diverse organizations and esteemed clients representing prominent sectors such as Law, Sports, Technology, and Production. This exposure has fostered my ability to work in a cross-functional capacity and adopted more skills beyond my core knowledge base.
   
 </details>
 
