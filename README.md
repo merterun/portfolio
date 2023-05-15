@@ -45,7 +45,7 @@ In my professional career, I have had the opportunity to collaborate with divers
 
 In this notebook, we look at the evaluation of creditworthiness among bank customers. Through an exploratory data analysis, we gain valuable insights into the dataset and identify significant trends within the variables. Subsequently, i focused on constructing and evaluating models to assess customer creditworthiness. I compared the performance of Logistic Regression and Decision Tree models for classification purposes. At the end i investigated variable importances to determine the key factors influencing creditworthiness.
 
-
+#
 
 > **[Investigating vehicle insurance Frauds](https://github.com/merterun/fraud-detection-insurance/blob/main/investigating-vehicle-insurance-frauds-with-ml.ipynb)**
 
@@ -53,7 +53,7 @@ In this notebook, we look at the evaluation of creditworthiness among bank custo
 
 In this project i investigated vehicle insurance claims, differentiating between fraudulent and legitimate ones. The primary objective is to construct a robust model capable of identifying fraudulent claims based on the available data. I employed various techniques including Feature Scaling to ensure optimal data preprocessing, Model Evaluation, and Comparison utilizing xgboost and Random Forest algorithms. Furthermore, we employ Hyperparameter Tuning to fine-tune the models for enhanced performance and accuracy.
 
-
+#
 
 > **[Analysis on Genome sequencing Costs](https://github.com/merterun/genome-sequencing-costs/blob/main/exploring-and-cost-patterns-of-genome-sequencing.ipynb)**
 
@@ -61,7 +61,7 @@ In this project i investigated vehicle insurance claims, differentiating between
 
 This data science notebook introduces the concept of genome sequencing and its impact on genetic research. The notebook also covers linear regression analysis and explores two rank correlation measures, Kendall's tau and Spearman's rho. 
 
-
+#
 
 > **[The Bean Scene: A study about Coffee](https://github.com/merterun/the-bean-scene-a-study-about-coffee/blob/main/the-bean-scene-a-study-about-coffee.ipynb)**
 
@@ -69,7 +69,7 @@ This data science notebook introduces the concept of genome sequencing and its i
 
 In this notebook, we look into the realm of coffee, meticulously analyzing the top rated coffee brands, their origins, the various roast types they offer, price determinants and locations to find the best coffee. We unravel insights on ratings, identifying the crème de la crème in terms of brands, origins, and roast types and embark on a flavorful journey of data-driven discovery within the world of coffee connoisseurship.
 
-
+#
 
 > **[Macaque Brain Network Analysis](https://github.com/merterun/macaque-brain-network-analysis/blob/main/mapping-the-macaque-brain-a-network-analysis.ipynb)**
 
@@ -77,7 +77,7 @@ In this notebook, we look into the realm of coffee, meticulously analyzing the t
 
 Conducted an analysis on macaque brain areas and connections, utilizing the dataset from the igraphdata package. This dataset is a valuable resource for those interested in exploring the intricacies of neuroscience and its practical implications. With its similarities to the human brain, the macaque brain serves as an ideal model system for understanding complex neural processes.
 
-
+#
 
 > **[Hierarchical Clustering and PCA analysis on US crime rates](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests/blob/main/hierarchical-clustering-and-pca-on-u-s-crime-rate.ipynb)**
 
