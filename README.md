@@ -35,7 +35,7 @@ In my professional career, I have had the opportunity to collaborate with divers
 - **Email**: [merterun@gmail.com](mailto:merterun@gmail.com) - [mealer@protonmail.com](mailto:mealer@protonmail.com)
 - **LinkedIn**: [linkedin.com/mert-ali-erun/](https://www.linkedin.com/in/mert-ali-erun/)
 
-
+<br>
 ## Projects
 
 
