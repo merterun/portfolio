@@ -32,23 +32,15 @@ In my professional life i was able to work within different organizations and wi
 - **LinkedIn**: [linkedin.com/mert-ali-erun/](https://www.linkedin.com/in/mert-ali-erun/)
 
 
+
 ## Projects
 
 
+**[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**
 
-| Description                                                                        | Notebook               | Repo        |
-|------------------------------------------------------------------------------------|------------------------|-------------|
-| Apscan by Apscan                     |                       | [REPO](https://github.com/merterun/fraud-detection-insurance)             |
-| Aptos Explorer by AptosLabs |[Github](https://github.com/aptos-labs/explorer)|[Website](https://explorer.aptoslabs.com/) |
-| AptoScan.xyz by 3NJOY Labs  |                                                | [Website](https://aptoscan.xyz)           |
-| AptoScan by EtherScan       |                                                | [Website](https://aptoscan.com/)          |
-| TraceMove by NodeReal       |                                                | [Website](https://tracemove.io)           |
+[REPO](https://github.com/merterun/credit-risk-analysis)
 
-|**[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**
-
-[REPO]([REPO](https://github.com/merterun/credit-risk-analysis))
-
-In this notebook, we look at the evaluation of creditworthiness among bank customers. Through an exploratory data analysis, we gain valuable insights into the dataset and identify significant trends within the variables. Subsequently, i focused on constructing and evaluating models to assess customer creditworthiness. I compared the performance of Logistic Regression and Decision Tree models for classification purposes. At the end i investigated variable importances to determine the key factors influencing creditworthiness.|
+In this notebook, we look at the evaluation of creditworthiness among bank customers. Through an exploratory data analysis, we gain valuable insights into the dataset and identify significant trends within the variables. Subsequently, i focused on constructing and evaluating models to assess customer creditworthiness. I compared the performance of Logistic Regression and Decision Tree models for classification purposes. At the end i investigated variable importances to determine the key factors influencing creditworthiness.
 
 #
 
@@ -60,35 +52,100 @@ In this project i investigated vehicle insurance claims, differentiating between
 
 #
 
+**[Analysis on Genome sequencing Costs](https://github.com/merterun/genome-sequencing-costs/blob/main/exploring-and-cost-patterns-of-genome-sequencing.ipynb)**
 
+[REPO](https://github.com/merterun/genome-sequencing-costs)
 
+This data science notebook introduces the concept of genome sequencing and its impact on genetic research. The notebook also covers linear regression analysis and explores two rank correlation measures, Kendall's tau and Spearman's rho. 
 
+#
 
+**[The Bean Scene: A study about Coffee](https://github.com/merterun/the-bean-scene-a-study-about-coffee/blob/main/the-bean-scene-a-study-about-coffee.ipynb)**
 
+[REPO](https://github.com/merterun/the-bean-scene-a-study-about-coffee) (Contains **.rmd** file)
 
+In this notebook, we look into the realm of coffee, meticulously analyzing the top rated coffee brands, their origins, the various roast types they offer, price determinants and locations to find the best coffee. We unravel insights on ratings, identifying the crème de la crème in terms of brands, origins, and roast types and embark on a flavorful journey of data-driven discovery within the world of coffee connoisseurship.
 
+#
 
+**[Macaque Brain Network Analysis](https://github.com/merterun/macaque-brain-network-analysis/blob/main/mapping-the-macaque-brain-a-network-analysis.ipynb)**
+
+[REPO](https://github.com/merterun/macaque-brain-network-analysis)
+
+Conducted an analysis on macaque brain areas and connections, utilizing the dataset from the igraphdata package. This dataset is a valuable resource for those interested in exploring the intricacies of neuroscience and its practical implications. With its similarities to the human brain, the macaque brain serves as an ideal model system for understanding complex neural processes.
+
+#
+
+**[Hierarchical Clustering and PCA analysis on US crime rates](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests/blob/main/hierarchical-clustering-and-pca-on-u-s-crime-rate.ipynb)**
+
+[REPO](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests)
+
+In this data science project, we leverage hierarchical clustering and principal components analysis techniques to gain insights from the USArrests dataset in R. This dataset encompasses data on assault, murder, and rape arrest rates per 100,000 residents across all 50 US states in 1973. By employing these analytical methods, our objective is to uncover distinctive clusters among the states, allowing us to discern patterns and relationships based on their respective crime rates.
+
+#
+
+**[Evolution of the Film Industry](https://github.com/merterun/evolution-of-cinema/blob/main/the-evolution-of-cinema-a-data-driven-perspective.ipynb)**
+
+[REPO](https://github.com/merterun/evolution-of-cinema) (Contains **.rmd** file)
+
+Using comprehensive data from IMDB, i conduct an in-depth analysis of the greatest movies over the years. Delve into the top-rated films by genre, observe the average runtime trends, explore annual gross totals, and predict future average gross earnings. Discover intriguing insights and fascinating facts about movie-making.
+
+#
+
+**[Uncovering the World's population patterns](https://github.com/merterun/uncovering-the-world-s-population-patterns/blob/main/uncovering-the-world-s-population-patterns.ipynb)**
+
+[REPO](https://github.com/merterun/uncovering-the-world-s-population-patterns) (Contains **.rmd** file)
+
+In this exploratory data analaysis notebook, we explore the world's population dynamics spanning from 1970 to 2022. We uncover intriguing insights regarding the global distribution of people across nations and continents. 
 
 
 
 #
 
 
-## Micro Projects
-- ### Statistics and Machine Learning
-    - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
-    - [Bayesian Statistics](https://github.com/archd3sai/Statistical-Methods/blob/master/Bayesian%20Statistics.ipynb) : In this file, I explored how bayesian statistics works and how prior assumption reflects posterior probabilities using Gun control example. 
-    - [Gaussian Mixture Model and Expectation Maximization](https://github.com/archd3sai/Statistical-Methods/blob/master/GMM-EM.ipynb): In this file, I implemented Expectation Maximization algorithm to find out true distribution of one dimensional GMM of 2 gaussians.
-    - [Linear Regression](https://github.com/archd3sai/Statistical-Methods/blob/master/Linear%20Regression.ipynb): In this file, I aim to solve linear regression using analytical method and also by implementing gradient descent, stochastic gradient descent and minibatch gradient descent algorithms. 
-    - [Neural Network Implementation](https://github.com/archd3sai/Statistical-Methods/blob/master/NN%20Implementation.ipynb): In this file, I implemented simple neural network using forward propogation, backword propogation and optimization functions to predict the customer churn.
+## Educational Content
+
+This section consist of educational notebooks i created called *"Cool R Things"*
+
+
+
+- [Functional Data Manipulation](https://github.com/merterun/functional-data-manipulation/blob/main/functional-data-manipulation.ipynb)
+[REPO](https://github.com/merterun/functional-data-manipulation) (Contains **.rmd** file)
+
+This notebook explores the fundamentals of functional programming in R with the purrr library. I demonstrate how to transform and manipulate data structures in a more concise and efficient way using functions. Through this notebook, we will learn how to use the various functions provided by purrr to work with lists, vectors, and other data structures, and gain a deeper understanding of the functional programming paradigm in R.
+
+#
+
+- [Building Interactive Dashboards](https://github.com/merterun/building-interactive-dashboards/blob/main/building-interactive-dashboards.ipynb)
+[REPO](https://github.com/merterun/building-predictive-models) (Contains **.rmd** file)
+
+This notebook showcases the development of an interactive dashboard utilizing the powerful Shiny library in R. By leveraging the renowned iris dataset from the "datasets" package, we explore its inherent patterns and characteristics through visually appealing and user-friendly interfaces. Throughout the project, i demonstrate data manipulation, visualization and interactive dashboards.
  
-- ### Challenges
-    - [SQL Challenges](https://github.com/archd3sai/SQL): This repository contains codes of online SQL challenges (From Hackerrank, Leetcode, Testdome, etc.) solved by me.
-    - [Data Science Challenges](https://github.com/archd3sai/DS-Challenges): This repository contains codes of online Data Science challenges (From Hackerrank, TestDome, etc.) solved by me.
-    
-- ### Ranking Algorithms
-    - [Ranking of NFL teams using Markov-chain methods](https://github.com/archd3sai/Ranking-of-NFL-Teams-using-Markov-method/blob/master/Ranking%20of%20NFL%20teams%20Report.pdf) : In this project I implemented and compared three stationary distribution of Markov-chain based approaches to rank 32 NFL (National Football League) teams from "Best" to "Worst" using the scores of 2007 NFL regular season.
-    - [Ranking of Tennis players](https://github.com/archd3sai/Tennis-Players-Ranking/blob/master/TennisRanking.ipynb) : Objective of this project is to rank all Tennis Players based on the matches they played in the year of 2018. This project comprises 4 approaches to rank Tennis players and I have tried to make these approaches more robust sequentially.
+ #
+ 
+ - [Building Predictive Models](https://github.com/merterun/building-predictive-models/blob/main/building-predictive-models.ipynb)
+ [REPO](https://github.com/merterun/building-predictive-models) (Contains **.rmd** file)
+
+In this notebook, we leverage the power of the caret package to execute k-fold cross-validation on a classification model. By implementing this robust methodology, we gain insights into the model's performance and its ability to generalize to unseen data. 
+
+#
+
+- [Mapping made easy with leaflet](https://github.com/merterun/mapping-made-easy/blob/main/mapping-made-easy-with-leaflet.ipynb)
+[REPO](https://github.com/merterun/mapping-made-easy) (Contains **.rmd** file)
+
+We explore the creation of interactive maps using the leaflet library in R in this notebook. With leaflet, i demonstrate the generation of maps enriched with markers, popups, and other engaging features. Our focus lies in creating a visually appealing map of the United States, adorned with markers highlighting key cities of significance.
+
+#
+
+_ [Web scraping with rvest](https://github.com/merterun/web-scraping-with-rvest/blob/main/web-scraping-with-rvest.ipynb)
+[REPO](https://github.com/merterun/web-scraping-with-rvest) (Contains **.rmd** file)
+
+I explore the realm of web scraping, utilizing the robust rvest library. Web scraping is a method for extracting valuable data from websites, and the rvest library, specifically designed for R, offers a comprehensive set of functions tailored for working with HTML and XML documents.
+
+#
+
+
+
  
 ## Core Competencies
 
