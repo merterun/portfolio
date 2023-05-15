@@ -7,7 +7,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 Updated on a regular basis.
 
 <details>
-  <summary>### About me</summary>
+  <summary>About me</summary>
   
   My data science notebooks consist of variety of topics with many different approaches using a lot of different frameworks.
 
@@ -19,7 +19,7 @@ Inside these notebooks, you'll find a diverse range of projects that showcase my
 
 It can also be seen that i'm meticulous in the narrative and document my thought process, observations, explanations and the lessons learned, transforming my notebooks into a repository of knowledge and continuous improvement. 
 
-  <summary>### Bio</summary>
+  <summary>Bio</summary>
 
 Studied economics at Izmir University of Economics and finished within top 5%. I learned to use tools and topics like R, Sql, regression and time series analysis at University. 
   
@@ -44,59 +44,35 @@ In my professional life i was able to work within different organizations and wi
 | AptoScan by EtherScan       |                                                | [Website](https://aptoscan.com/)          |
 | TraceMove by NodeReal       |                                                | [Website](https://tracemove.io)           |
 
+|**[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**
+
+[REPO]([REPO](https://github.com/merterun/credit-risk-analysis))
+
+In this notebook, we look at the evaluation of creditworthiness among bank customers. Through an exploratory data analysis, we gain valuable insights into the dataset and identify significant trends within the variables. Subsequently, i focused on constructing and evaluating models to assess customer creditworthiness. I compared the performance of Logistic Regression and Decision Tree models for classification purposes. At the end i investigated variable importances to determine the key factors influencing creditworthiness.|
+
+#
 
 **[Investigating vehicle insurance Frauds](https://github.com/merterun/fraud-detection-insurance/blob/main/investigating-vehicle-insurance-frauds-with-ml.ipynb)**
 
 [REPO](https://github.com/merterun/fraud-detection-insurance)
 
 In this project i investigated vehicle insurance claims, differentiating between fraudulent and legitimate ones. The primary objective is to construct a robust model capable of identifying fraudulent claims based on the available data. I employed various techniques including Feature Scaling to ensure optimal data preprocessing, Model Evaluation, and Comparison utilizing xgboost and Random Forest algorithms. Furthermore, we employ Hyperparameter Tuning to fine-tune the models for enhanced performance and accuracy.
-|-----------------------------------------------------------------------------------------------------------------------------------------|
+
+#
+
+
+
+
+
+
+
+
+
 
 
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
-
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
- 
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine)**
-
-In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/960x0.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation)**
-
-In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields lowest Test RMSE-6.404.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/phase1.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/archd3sai/Multivariate-Phase-1-Analysis)** 
-
-Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for manufacturing process monitoring. I utilized PCA for dimension reduction and Hotelling T2 and m-CUSUM control charts to established mean and variance matrices.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[What's the GDP of India?](https://github.com/archd3sai/Predicting-GDP-of-India)**
-
-Objective of this project is to perform predictive assesment on the GDP of India through an inferential analysis of various socio-economic factors. Various models are compared and Stepwise Regression model is implemented which resulted in 5.7% Test MSE.
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/loan.jpg"> **[Loan Default Prediction](https://github.com/archd3sai/Loan-Default-Prediction)** 
-
-In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
-
-<br />
 
 ## Micro Projects
 - ### Statistics and Machine Learning
