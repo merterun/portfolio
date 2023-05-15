@@ -1,4 +1,4 @@
-# Data Science Portfolio - Mert Ali Erün
+# Mert's Data Science Portfolio - Mert Ali Erün
 
 Hi there,
 
@@ -6,9 +6,7 @@ This Portfolio is a compilation of Data Science projects I conducted.
 
 Updated on a regular basis.
 
-
 #
-
 
 <details>
   <summary>About me</summary>
@@ -42,6 +40,13 @@ In my professional life i was able to work within different organizations and wi
 #
 #
 #
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
 
 ## Projects
 
@@ -109,7 +114,9 @@ Using comprehensive data from IMDB, i conduct an in-depth analysis of the greate
 
 In this exploratory data analaysis notebook, we explore the world's population dynamics spanning from 1970 to 2022. We uncover intriguing insights regarding the global distribution of people across nations and continents. 
 
-
+</td>
+</tr>
+</table>
 
 #
 
