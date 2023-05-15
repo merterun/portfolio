@@ -36,10 +36,21 @@ In my professional life i was able to work within different organizations and wi
 - **LinkedIn**: [linkedin.com/mert-ali-erun/](https://www.linkedin.com/in/mert-ali-erun/)
 
 
+|> **[Investigating vehicle insurance Frauds](https://github.com/merterun/fraud-detection-insurance/blob/main/investigating-vehicle-insurance-frauds-with-ml.ipynb)**
+
+[REPO](https://github.com/merterun/fraud-detection-insurance)
+
+In this project i investigated vehicle insurance claims, differentiating between fraudulent and legitimate ones. The primary objective is to construct a robust model capable of identifying fraudulent claims based on the available data. I employed various techniques including Feature Scaling to ensure optimal data preprocessing, Model Evaluation, and Comparison utilizing xgboost and Random Forest algorithms. Furthermore, we employ Hyperparameter Tuning to fine-tune the models for enhanced performance and accuracy.
+|> **[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**
+
+[REPO](https://github.com/merterun/credit-risk-analysis)
+
+In this notebook, we look at the evaluation of creditworthiness among bank customers. Through an exploratory data analysis, we gain valuable insights into the dataset and identify significant trends within the variables. Subsequently, i focused on constructing and evaluating models to assess customer creditworthiness. I compared the performance of Logistic Regression and Decision Tree models for classification purposes. At the end i investigated variable importances to determine the key factors influencing creditworthiness.|
+
 
 ## Projects
 
-```mermaid
+
 
 > **[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**
 
@@ -103,7 +114,7 @@ Using comprehensive data from IMDB, i conduct an in-depth analysis of the greate
 
 In this exploratory data analaysis notebook, we explore the world's population dynamics spanning from 1970 to 2022. We uncover intriguing insights regarding the global distribution of people across nations and continents. 
 
-```
+
 #
 
 
