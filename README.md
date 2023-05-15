@@ -2,7 +2,7 @@
 
 Hi there,
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I conducted for educational purposes, self-learning,  hobby and professional purposes. 
+This Portfolio is a compilation of Data Science projects I conducted.
 
 Updated on a regular basis.
 
