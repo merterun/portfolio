@@ -8,8 +8,7 @@ Updated on a regular basis.
 
 <br>
 <details>
-  <summary>About me</summary>
-  
+  <summary>About me</summary><br>
   
   My data science notebooks consist of variety of topics with many different approaches using a lot of different frameworks.
 
