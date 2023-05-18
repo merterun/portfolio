@@ -96,16 +96,6 @@ Using comprehensive data from IMDB, i conduct an in-depth analysis of the greate
 
 #
 
-> **[Uncovering the World's population patterns](https://github.com/merterun/uncovering-the-world-s-population-patterns/blob/main/uncovering-the-world-s-population-patterns.ipynb)**
-
-<sub>[REPO](https://github.com/merterun/uncovering-the-world-s-population-patterns) (Contains **.rmd** file)</sub>
-
-In this ```exploratory data analaysis``` notebook, we explore the world's population dynamics spanning from 1970 to 2022. We uncover intriguing insights regarding the global distribution of people across nations and continents. 
-
-
-<br>
-
-
 ## Educational Content
 
 This section consist of educational notebooks i created called *"Cool R Things"*
