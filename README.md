@@ -46,7 +46,7 @@ In this notebook, we look at the evaluation of creditworthiness among bank custo
 
 #
 
-> **[Investigating vehicle insurance Frauds](https://github.com/merterun/fraud-detection-insurance/blob/main/investigating-vehicle-insurance-frauds-with-ml.ipynb)**
+> **[Investigating Vehicle Insurance Frauds](https://github.com/merterun/fraud-detection-insurance/blob/main/investigating-vehicle-insurance-frauds-with-ml.ipynb)**
 
 <sub>[REPO](https://github.com/merterun/fraud-detection-insurance)</sub>
 
@@ -54,7 +54,7 @@ In this project i investigated vehicle insurance claims, differentiating between
 
 #
 
-> **[Analysis on Genome sequencing Costs](https://github.com/merterun/genome-sequencing-costs/blob/main/exploring-and-cost-patterns-of-genome-sequencing.ipynb)**
+> **[Analysis on Genome Sequencing Costs](https://github.com/merterun/genome-sequencing-costs/blob/main/exploring-and-cost-patterns-of-genome-sequencing.ipynb)**
 
 <sub>[REPO](https://github.com/merterun/genome-sequencing-costs)</sub>
 
@@ -62,7 +62,7 @@ This data science notebook introduces the concept of genome sequencing and its i
 
 #
 
-> **[The Bean Scene: A study about Coffee](https://github.com/merterun/the-bean-scene-a-study-about-coffee/blob/main/the-bean-scene-a-study-about-coffee.ipynb)**
+> **[The Bean Scene: A Study About Coffee](https://github.com/merterun/the-bean-scene-a-study-about-coffee/blob/main/the-bean-scene-a-study-about-coffee.ipynb)**
 
 <sub>[REPO](https://github.com/merterun/the-bean-scene-a-study-about-coffee) (Contains **.rmd** file)</sub>
 
@@ -78,7 +78,7 @@ Conducted an analysis on macaque brain areas and connections, utilizing the data
 
 #
 
-> **[Hierarchical Clustering and PCA analysis on US crime rates](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests/blob/main/hierarchical-clustering-and-pca-on-u-s-crime-rate.ipynb)**
+> **[Hierarchical Clustering and PCA on US crime rates](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests/blob/main/hierarchical-clustering-and-pca-on-u-s-crime-rate.ipynb)**
 
 <sub>[REPO](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests)</sub>
 
@@ -124,7 +124,7 @@ In this notebook, we leverage the ```caret``` package to execute ```k-fold cross
 
 #
 
-> [Mapping made easy with leaflet](https://github.com/merterun/mapping-made-easy/blob/main/mapping-made-easy-with-leaflet.ipynb)
+> [Mapping Made Easy With leaflet](https://github.com/merterun/mapping-made-easy/blob/main/mapping-made-easy-with-leaflet.ipynb)
 
 <sub>[REPO](https://github.com/merterun/mapping-made-easy) (Contains **.rmd** file)</sub>
 
@@ -132,7 +132,7 @@ We explore the creation of interactive maps using the ```leaflet``` library in R
 
 #
 
-> [Web scraping with rvest](https://github.com/merterun/web-scraping-with-rvest/blob/main/web-scraping-with-rvest.ipynb)
+> [Web Scraping with rvest](https://github.com/merterun/web-scraping-with-rvest/blob/main/web-scraping-with-rvest.ipynb)
 
 <sub>[REPO](https://github.com/merterun/web-scraping-with-rvest) (Contains **.rmd** file)</sub>
 
