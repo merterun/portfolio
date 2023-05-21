@@ -38,6 +38,18 @@ In my professional career, I have had the opportunity to collaborate with divers
 ## Projects
 
 
+> **[Predictive Modeling for Lending Decisions](https://www.kaggle.com/code/merterun/cybersecurity-threat-analysis)** <sub> Kaggle Notebook link</sub>
+
+<sub>[REPO](https://github.com/merterun/cybersecurity-risk-analysis)</sub>
+
+This project focused on analyzing Cybersecurity Risks in 2022 using a variety of analytical techniques. I posted the Kaggle link because notebook contains animated and interactive charts which can't be seen in Github(Notebook is also in REPO). The dataset provided by the Cybersecurity and Infrastructure Security Agency (CISA) was explored through ```Bayesian modeling, Bayesian networks```, comprehensive exploratory data analysis, ```K-means clustering```, and ```network analysis```.
+
+Through extensive EDA, I gained insights into the distribution and characteristics of the data, ensuring data integrity. Bayesian modeling and networks were employed to estimate probabilities and dependencies, providing a comprehensive view of the vulnerabilities and their impacts. K-means clustering facilitated grouping similar vulnerabilities, aiding targeted mitigation strategies.
+
+To visualize the network structure, traditional and advanced visualization librariries such as ```networkD3``` and ```Visnetwork``` were utilized. These visualizations depicted the interconnectedness of vulnerabilities, vendors, and products.
+
+#
+
 > **[Predictive Modeling for Lending Decisions](https://github.com/merterun/credit-risk-evaluation/blob/main/predictive-modeling-for-lending-decisions.ipynb)**
 
 <sub>[REPO](https://github.com/merterun/credit-risk-analysis)</sub>
