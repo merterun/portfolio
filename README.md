@@ -90,11 +90,11 @@ Conducted an analysis on macaque brain areas and connections, utilizing the data
 
 #
 
-> **[Hierarchical Clustering and PCA on US crime rates](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests/blob/main/hierarchical-clustering-and-pca-on-u-s-crime-rate.ipynb)**
+> **[Hierarchical Clustering Analysis on US crime rates](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests/blob/main/hierarchical-clustering-and-pca-on-u-s-crime-rate.ipynb)**
 
 <sub>[REPO](https://github.com/merterun/hierarchical-clustering-analysis-US-arrests)</sub>
 
-In this data science project, i leverage ```hierarchical clustering``` and ```principal components analysis``` techniques to gain insights from the ```USArrests``` dataset in R. This dataset encompasses data on assault, murder, and rape arrest rates per 100,000 residents across all 50 US states in 1973. By employing these analytical methods, my objective is to uncover distinctive clusters among the states, allowing us to discern patterns and relationships based on their respective crime rates.
+In this data science project, i leverage ```hierarchical clustering analysis``` to gain insights from the ```USArrests``` dataset in R. This dataset encompasses data on assault, murder, and rape arrest rates per 100,000 residents across all 50 US states in 1973. By employing this method, my objective is to uncover distinctive clusters among the states, allowing us to discern patterns and relationships based on their respective crime rates.
 
 #
 
