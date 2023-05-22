@@ -42,7 +42,9 @@ In my professional career, I have had the opportunity to collaborate with divers
 
 <sub>[REPO](https://github.com/merterun/cybersecurity-risk-analysis)</sub>
 
-This project focused on analyzing Cybersecurity Risks in 2022 using a variety of analytical techniques. I posted the Kaggle link because notebook contains animated and interactive charts that can't be seen in **.pynb** format in Github(Notebook is also in REPO). The dataset provided by the Cybersecurity and Infrastructure Security Agency (CISA) was explored through ```Bayesian modeling, Bayesian networks```, comprehensive exploratory data analysis, ```K-means clustering```, and ```network analysis```.
+This project focused on analyzing Cybersecurity Risks in 2022 using various techniques. I posted the Kaggle link because notebook contains animated and interactive charts that can't be seen in **.pynb** format in Github(Notebook is also in REPO). 
+
+The dataset provided by the Cybersecurity and Infrastructure Security Agency (CISA) was explored through ```Bayesian modeling, Bayesian networks```, comprehensive exploratory data analysis, ```K-means clustering```, and ```network analysis```.
 
 Through extensive EDA, I gained insights into the distribution and characteristics of the data, ensuring data integrity. Bayesian modeling and networks were employed to estimate probabilities and dependencies, providing a comprehensive view of the vulnerabilities and their impacts. K-means clustering facilitated grouping similar vulnerabilities, aiding targeted mitigation strategies.
 
