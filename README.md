@@ -76,11 +76,9 @@ This data science notebook introduces the concept of genome sequencing and its i
 
 #
 
-> **[The Bean Scene: A Study About Coffee](https://www.kaggle.com/code/merterun/the-bean-scene-a-study-about-coffee)** <sub> (Kaggle Notebook link)</sub>
+> **[The Bean Scene: A Study About Coffee](https://github.com/merterun/the-bean-scene-a-study-about-coffee/blob/main/the-bean-scene-a-study-about-coffee.ipynb)
 
 <sub>[REPO](https://github.com/merterun/the-bean-scene-a-study-about-coffee) (Contains **.rmd** file)</sub>
-
-I posted the Kaggle link because notebook contains animated and interactive charts that can't be seen in **.pynb** format in Github(Notebook is also in REPO).
 
 In this notebook, we look into the realm of coffee, meticulously analyzing the top rated coffee brands, their origins, the various roast types they offer, price determinants and locations to find the best coffee. We unravel insights on ratings, identifying the crème de la crème in terms of brands, origins, and roast types and embark on a flavorful journey of data-driven discovery within the world of coffee connoisseurship.
 
