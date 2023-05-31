@@ -10,14 +10,13 @@ Updated on a regular basis.
 <details>
   <summary>About me</summary><br>
   
-  My data science notebooks consist of variety of topics with many different approaches using a lot of different frameworks.
+My data science notebooks consist of variety of topics with many different approaches using a lot of different frameworks.
 
 Armed with R, and an array of many powerful libraries, I dive headfirst into the data, exploring its depths to extract valuable insights and transforming complex data into tangible solutions.
 
 Inside these notebooks, you'll find a diverse range of projects that showcase multidimensional skills. From ```Predictive Modeling``` and ```Machine Learning``` to ```Network Analysis``` and more. Each notebook represents a chapter in my data science story. With a meticulous approach, I carefully select and preprocess the data, construct robust models, and evaluate their performance to ensure reliable and accurate results.
 
 It can also be seen that i'm meticulous in the narrative and document my thought process, observations, explanations and the lessons learned, transforming my notebooks into a repository of knowledge and continuous improvement. 
-
   
   <summary>Bio</summary><br>
 
@@ -36,7 +35,6 @@ In my professional career, I have had the opportunity to collaborate with divers
 <br>
 
 ## Projects
-
 
 > **[Cybersecurity Threat Analysis: Exploring Vulnerabilities and Patterns](https://www.kaggle.com/code/merterun/cybersecurity-threat-analysis)** <sub> (Kaggle Notebook link)</sub>
 
