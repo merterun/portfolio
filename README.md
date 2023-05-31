@@ -21,7 +21,7 @@ It can also be seen that i'm meticulous in the narrative and document my thought
   
   <summary>Bio</summary><br>
 
-Studied economics at Izmir University of Economics and finished within top 5%. I learned to use tools and topics like R, SQL, regression and time series analysis at University. 
+Studied economics at Izmir University of Economics and finished within top 5. I learned to use tools and topics like R, SQL, Econometrics and Network analysis at University. 
   
 In my professional career, I have had the opportunity to collaborate with diverse organizations and esteemed clients representing prominent sectors such as Law, Sports, Technology, and Production. This exposure has fostered my ability to work in a cross-functional capacity and adopted more skills beyond my core knowledge base.
   
