@@ -104,7 +104,6 @@ In this data science project, i leverage ```hierarchical clustering analysis``` 
 
 Using comprehensive data from IMDB, i conduct an in-depth analysis of the greatest movies over the years. Delve into the top-rated films by genre, observe the average runtime trends, explore annual gross totals, and predict future average gross earnings. Discover intriguing insights and fascinating facts about movie-making.
 
-
 <br><br>
 
 ## Educational Content
