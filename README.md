@@ -36,7 +36,7 @@ In my professional career, I have had the opportunity to collaborate with divers
 
 ## Projects
 
-> **[Cybersecurity Threat Analysis: Exploring Vulnerabilities and Patterns](https://www.kaggle.com/code/merterun/cybersecurity-threat-analysis)** <sub> (Kaggle Notebook link)</sub>
+> **[Cybersecurity Threat Analysis: Exploring Vulnerabilities and Patterns](https://www.kaggle.com/code/merterun/cybersecurity-threat-analysis)** <sub> (Kaggle Notebook link) - p.s. takes time to load be patient please</sub> 
 
 <sub>[REPO](https://github.com/merterun/cybersecurity-risk-analysis)</sub>
 
