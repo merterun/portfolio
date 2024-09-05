@@ -29,7 +29,7 @@ In my professional career, I have had the opportunity to collaborate with divers
 <br>
 
 ## Contact info
-- **Email**: [merterun@gmail.com](mailto:merterun@gmail.com) - [mealer@protonmail.com](mailto:mealer@protonmail.com)
+- **Email**: [merterun@gmail.com](mailto:merterun@gmail.com)
 - **LinkedIn**: [linkedin.com/mert-ali-erun/](https://www.linkedin.com/in/mert-ali-erun/)
 
 <br>
